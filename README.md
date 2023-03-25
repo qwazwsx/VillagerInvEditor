@@ -1,2 +1,4 @@
-# VillagerInvView
-View villager inventories with shift right click
+# VillagerInvEditor
+Edit villager inventories with shift right click
+
+[Download .Jar Here](https://github.com/qwazwsx/VillagerInvEditor/releases/tag/release)
