@@ -2,7 +2,7 @@ plugins {
     id 'java'
 }
 
-group = 'dev.akex.villagerinvviewer'
+group = 'dev.cBc.VillagerInvEditor'
 version = '1.0'
 
 repositories {

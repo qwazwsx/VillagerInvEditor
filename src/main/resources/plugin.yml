@@ -1,6 +1,6 @@
-name: VillagerInvViewer
+name: VillagerInvEditor
 version: '${version}'
-main: dev.akex.villagerinvviewer.VillagerInvViewer
+main: dev.cBc.VillagerInvEditor.VillagerInvEditor
 api-version: 1.19
-authors: [ Akex06 ]
-description: View a villager's inventory by shift right click
+authors: [ Akex06, CreepersBCreepin ]
+description: Edit a villager's inventory by shift-right clicking

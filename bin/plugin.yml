@@ -1,0 +1,6 @@
+name: VillagerInvEditor
+version: '${version}'
+main: dev.cBc.VillagerInvEditor.VillagerInvEditor
+api-version: 1.19
+authors: [ Akex06, CreepersBCreepin ]
+description: Edit a villager's inventory by shift-right clicking
